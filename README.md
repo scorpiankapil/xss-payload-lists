@@ -1,6 +1,6 @@
 # xss-payload-lists
 
-xss payloads.pdf
+[xss payloads.pdf](https://github.com/scorpiankapil/xss-payload-lists/blob/main/xss%20payloads.pdf)
 
 ## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/scorpiankapil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scorpiankapil" /></a></p>
